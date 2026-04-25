@@ -1,6 +1,9 @@
 
 
 <!-- 🔥 ADVANCED ANIMATED HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nitish05584/nitish05584/output/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,50:2c5364,100:00c9ff&text=Nitish%20Kumar&fontColor=ffffff&fontSize=45&animation=twinkling&fontAlignY=40" />
