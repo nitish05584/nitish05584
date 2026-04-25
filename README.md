@@ -1,10 +1,6 @@
 
 
-<p align="center">
-  <a href="https://portfolio-ojqi.vercel.app/" target="_blank">
-    <img src="https://cdn.dribbble.com/userupload/19865245/file/original-414c77b2e6041c19d3f80295639be431.png?format=webp&resize=400x300&vertical=center" width="420" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,50:2c5364,100:00c9ff&text=Nitish%20Kumar&fontColor=ffffff&fontSize=45&animation=twinkling&fontAlignY=40" />
