@@ -1,8 +1,9 @@
 
 
-<!-- 🔥 ADVANCED ANIMATED HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitish05584/nitish05584/output/github-contribution-grid-snake.svg" />
+  <a href="https://portfolio-ojqi.vercel.app/" target="_blank">
+    <img src="https://cdn.dribbble.com/userupload/19865245/file/original-414c77b2e6041c19d3f80295639be431.png?format=webp&resize=400x300&vertical=center" width="420" />
+  </a>
 </p>
 
 <p align="center">
