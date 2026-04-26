@@ -1,7 +1,7 @@
 <!-- 🔥 HERO SECTION -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Hi+👋,+I'm+Nitish+Kumar;MERN+Stack+Developer;Backend+Specialist+🔥" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Nitish%20Kumar&fontSize=60&fontColor=00F7FF&color=0:000000,50:0f2027,100:2c5364&animation=fadeIn&stroke=00F7FF&strokeWidth=2&fontAlignY=40&descAlignY=60" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer+🔥;React+%7C+Node+%7C+MongoDB;Building+Real+World+Projects;Always+Learning+🚀&center=true&width=600&height=45&color=00F7FF">
