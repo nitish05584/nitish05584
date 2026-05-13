@@ -23,7 +23,8 @@
 - 🔭 Portfolio: https://portfolio-ojqi.vercel.app/  
 - 💻 GitHub: https://github.com/nitish05584  
 - 👯 Working on: E-commerce App  
-- 💬 Ask me: MERN Stack, Backend  
+- 💬 Ask me: MERN Stack, Backend
+- Leet Code :-https://leetcode.com/u/gr2dusI4qO/ 
 - 📫 Email: devnath8471@gmail.com  
 - ⚡ Fun fact: *Chai ☕ → Code 💻*
 
