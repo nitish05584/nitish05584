@@ -63,13 +63,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Premium)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nitish05584/nitish05584/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
