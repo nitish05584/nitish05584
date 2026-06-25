@@ -86,7 +86,7 @@
 
 <!-- 💫 FOOTER -->
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=NITISH%20KUMAR&fontSize=65&fontColor=00FF41&color=0:000000,50:0A0A0A,100:1A1A1A&animation=twinkling&stroke=00FF41&strokeWidth=2&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=NITISH%20KUMAR&fontSize=65&fontColor=ffffff&color=0:FF512F,50:F09819,100:FFD200&animation=fadeIn&stroke=ffffff&strokeWidth=2&fontAlignY=40" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:004e92&height=130&section=footer"/>
   
 </p>
