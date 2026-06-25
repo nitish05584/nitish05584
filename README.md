@@ -79,6 +79,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitish05584&label=Visitors&color=00f7ff&style=for-the-badge"/>
+  
 </p>
 
 ---
@@ -86,4 +87,5 @@
 <!-- 💫 FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:004e92&height=130&section=footer"/>
+   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=NITISH%20KUMAR&fontSize=65&fontColor=ffffff&color=0:000428,50:004e92,100:00c9ff&animation=fadeIn&stroke=00F7FF&strokeWidth=2&fontAlignY=40" />
 </p>
